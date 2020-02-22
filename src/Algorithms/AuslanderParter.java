@@ -11,7 +11,7 @@ import graphalgorithms.GraphTools;
 import java.awt.Color;
 /**
  *
- * @author Student
+ * @author Ashley Phillips
  */
 public class AuslanderParter extends Algorithm {
     
